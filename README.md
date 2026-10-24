@@ -6,14 +6,14 @@
 
 **[Все учебные репозитории →](https://github.com/Assweg/nstu)**
 
-В каталоге собраны отдельные репозитории работ с собственными README, исходниками и отчётами. Для материалов, ожидающих публикации из-за ограничения GitHub, указан их статус.
+Каждая работа опубликована отдельно и снабжена собственным README. В каталоге можно выбрать семестр и перейти к исходникам или отчёту.
 
 ## Проекты, с которых можно начать
 
 | Проект | Что внутри |
 |---|---|
-| [Учебная криптобиржа](https://github.com/Assweg/3prac_3sem) | Варианты на C++/Python и C++/Go с Docker |
-| [Аудит PostgreSQL](https://github.com/Assweg/laba4_bsbd) | Представления, триггеры аудита, производительность и резервное копирование |
+| [Лабораторная по ИИ](https://github.com/Assweg/1laba_ai_7sem) | Аудит событий аутентификации, train/test и preprocessing pipeline в Jupyter |
+| [Восстановление PostgreSQL](https://github.com/Assweg/4laba_bsbd_6sem) | WAL, резервное копирование, аварийные сценарии и PITR |
 | [Мониторинг энергообъектов](https://github.com/Assweg/4laba_4sem) | React, Express, PostgreSQL и Docker |
 | [Платформа по криптографии](https://github.com/Assweg/crpted2) | Учебные материалы, тесты и авторизация |
 | [Сервер мини-СУБД](https://github.com/Assweg/2prac_3sem) | Многопоточный TCP-сервер на C++ |
